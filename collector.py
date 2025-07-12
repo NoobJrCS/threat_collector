@@ -50,7 +50,7 @@ PAYLOAD = {
 }
 
 # ✅ Your personal API key (keep it private!)
-API_KEY = "0444650706add29bef20e53236547136fec06313a2ceb472"
+API_KEY = "API KEY HERE"
 
 def fetch_threatfox_iocs():
     print("[*] Fetching IOCs from ThreatFox API...")
